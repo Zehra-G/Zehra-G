@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [Virtual Environments with Colby College Insite Lab](https://www.instagram.com/colbyinsite/)
 
-- 🌱 I’m currently learning **Software Engineering, Git, Unity**
+- 🌱 I’m currently learning **Software Engineering, Unity**
 
 - 📫 How to reach me **zgundo25@colby.edu**
+
+- 👥 Connect with me on my [LinkedIn account](https://www.linkedin.com/in/zehragundogdu/)
 
 - ⚡ Fun fact **I love art, cats, coffee, sunny weather, mythology and the stars.**
 
