@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **zgundo25@colby.edu**
 
-- 👥 Connect with me on my [LinkedIn account](https://www.linkedin.com/in/zehragundogdu/)
-
 - ⚡ Fun fact **I love art, cats, coffee, sunny weather, mythology and the stars.**
 
 <h3 align="left">Connect with me:</h3>
